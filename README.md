@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements an object detection system to automatically identify and localize cow stall numbers in dairy farm images. The system uses deep learning techniques to detect small numbers in images, with applications extending to door numbers, apartment numbers, license plates, and more.
+This project implements an object detection system to automatically identify and localize cow stall numbers in dairy farm images. The system uses deep learning techniques to detect small numbers in images, with applications extending to door numbers, apartment numbers, license plates, and more. Paper published [here](https://www.researchgate.net/publication/370729404_Cow_teat_data_augmentation_using_Stable_Diffusion)
 
 **Authors:** Haider Ali, Yeshiva University  
 **Email:** Hali4@mail.yu.edu
@@ -135,6 +135,3 @@ The system provides a foundation for further research in agricultural automation
 [2] Youshan Zhang. "Stall number detection of cow teats key frames." arXiv preprint arXiv:2303.10444, 2023.
 
 ---
-
-**Language:** Jupyter Notebook  
-**Repository:** [Cow-stall-number-identification](https://github.com/AliHaider20/Cow-stall-number-identification)
